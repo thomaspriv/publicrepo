@@ -1,5 +1,5 @@
-## publicrepo
-Several scripts I created
+# publicrepo
+These scripts where created by combining several snippets I found online.
 
 
 
@@ -9,6 +9,6 @@ Several scripts I created
 
 ### Licenses
 
- NNTmux is GPL v3. See LICENSE.txt for the full license.
+This repo is GPL v3. See LICENSE.txt for the full license.
 
  All external libraries will have their full licenses in their respectful folders.
